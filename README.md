@@ -3,8 +3,12 @@
 A minimalist timer application built with HTML, CSS, and JavaScript. This timer allows you to start, stop, reset, and set a countdown time specified by the user.
 
 ## Screenshots
-![Timer Screenshot](images/timer1.png)
-![Timer Screenshot](images/timer2.png)
+<p align="center">
+  <img src="images/timer1.png" alt="Stopwatch Screenshot" width="400">
+</p>
+<p align="center">
+  <img src="images/timer2.png" alt="Stopwatch Screenshot" width="400">
+</p>
 
 ## Features
 
@@ -21,7 +25,7 @@ A minimalist timer application built with HTML, CSS, and JavaScript. This timer 
 
 ## Demo
 
-Check out the live demo of the Timer [here](https://your-demo-url.com).
+Check out the live demo of the Timer [here](iDhruv11.github.io/Timer/).
 
 ## Getting Started
 
