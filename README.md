@@ -25,7 +25,7 @@ A minimalist timer application built with HTML, CSS, and JavaScript. This timer 
 
 ## Demo
 
-Check out the live demo of the Timer [here](iDhruv11.github.io/Timer/).
+Check out the live demo of the Timer [here]((https://idhruv11.github.io/Timer/).
 
 ## Getting Started
 
